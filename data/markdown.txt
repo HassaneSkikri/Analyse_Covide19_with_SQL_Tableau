@@ -1,0 +1,5 @@
+in this project i will analyse the covid 19 , the deaths and the vaccination 
+
+throut this project i will follow thos step:
+
+step 1 : i divide the data base into two tables the first about the covid death and the second covid vaccination 
