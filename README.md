@@ -91,4 +91,10 @@ This query identifies the location with the highest cases, infected rate, deaths
 The COVID-19 analysis project using SQL and Tableau Public provides a comprehensive understanding of the pandemic's impact. It covers aspects such as total cases, total deaths, infection rates, vaccination rates, and more.
 
 
+## the final result:
+### Covid Cases
+![Covid Cases](images/Covid_cases.png)
+
+### Covid Deaths
+![Covid Deaths](images/Covid_Deaths.png)
 Thank you 
