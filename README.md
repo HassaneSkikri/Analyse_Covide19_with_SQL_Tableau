@@ -4,6 +4,7 @@
 
 This project focuses on analyzing COVID-19 data using SQL queries and visualizing the results using Tableau public. We will explore various aspects of the COVID-19 pandemic, including total cases, total deaths, infection rates, vaccination rates, and more. The data is sourced from the CovidProject database.
 
+you can see the final version [here](https://public.tableau.com/app/profile/hassane.skikri/vizzes)
 ## SQL Queries
 
 ### Query 1 - View All Data in the CovidDeaths Table
